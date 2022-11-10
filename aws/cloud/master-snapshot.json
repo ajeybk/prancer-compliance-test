@@ -9,6 +9,7 @@
 					"arn": "arn:aws:kms:::",
 					"type": "kms",
 					"collection": "aws_kms",
+					"region": "us-east-1",
 					"listMethod": "list_keys",
 					"detailMethods": [
 						"describe_key",
